@@ -57,35 +57,34 @@ This confirms the reliability of representative sequence and the effectiveness
 of the pipeline in finding homologous sequences.
 
 ### Tree analysis
-Protein and gene trees in general shows C. aceticum and C. formicaceticum as
 distantly relatated sister groups to the others which form a seperate group.
 This demonstrates that the selected genes and proteins are conserved among 
 these species and probably theses two species live in another environment compared to
-the others. C. butyricum, C. beijerinckii and C. diolis consistently co-appear
-in a cluster, indicating their close relatedness. C. beijerinckii and C. diolis
-are indeed sister taxa while C. butyricum exhibited longer branch lengths/higher
+the others. *C. butyricum*, *C. beijerinckii* and *C. diolis* consistently co-appear
+in a cluster, indicating their close relatedness. *C. beijerinckii* and *C. diolis*
+are indeed sister taxa while *C. butyricum* exhibited longer branch lengths/higher
 rate of substitution. so that it is distinguished from the other two though they
 share a common ancestor. 
 
 Addtionally, the branch length in gene tree Similarly,
-C. drakei and C. scatologenes are also a sister group. On the other hands, C.
-cochlearium, C. perfringens, C. septicum and C. sporogenes shows less consistent
-in grouping across different trees. C. perfringens and C. septicum are grouped
+*C. drakei* and *C. scatologenes* are also a sister group. On the other hands, *C.
+cochlearium*, *C. perfringens*, *C. septicum* and *C. sporogenes* shows less consistent
+in grouping across different trees. *C. perfringens* and *C. septicum* are grouped
 together in trees of RNA polymerase sporulation factor and 50S ribosomal
 protein. In other cases, they form in a paraphyletic group. In majority of gene
-trees, C. cochlearium does not form an apparent sister group with other species.
-This means that the selected genes and proteins in C. cochlearium have much more
+trees, *C. cochlearium* does not form an apparent sister group with other species.
+This means that the selected genes and proteins in *C. cochlearium* have much more
 evolutionary changes. Protein trees, 3 out of 6 trees (including concatenated
-one), reveal the opposite in which C. cochlearium occasionally shares the recent
-ancestor with C. drakei and C. scatologenes.
-C. sporogenes also groups with C. drakei and C. scarologenes and happens to be a
-basal taxon in some trees, probably some proteins/genes in C. sporogenes retain
+one), reveal the opposite in which *C. cochlearium* occasionally shares the recent
+ancestor with *C. drakei* and *C. scatologenes*.
+*C. sporogenes* also groups with *C. drakei* and *C. scarologenes* and happens to be a
+basal taxon in some trees, probably some proteins/genes in *C. sporogenes* retain
 ancestral characteristics.
 
 The concatenated alignment based tree captures the close relatedness of C.
-beijerinckii and C. diolis as well as C. drakei and C. scatologenes. In
-individual gene or protein tree, the relationship between C. perfringens and C.
-sporogene remains unclear. However, in concatenated trees for both genes and
+beijerinckii and *C. diolis* as well as *C. drakei* and *C. scatologenes*. In
+individual gene or protein tree, the relationship between *C. perfringens* and *C.
+sporogene* remains unclear. However, in concatenated trees for both genes and
 proteins they are immediate descendants of a common ancestor, indicating that
 the more information (multiple genes or proteins) that is fed to tree-building
 model, the higher possibility of obtaining the more accurate tree topology. In
@@ -99,3 +98,4 @@ can make the branch length either longer or shorter. A single gene or protein
 trees reflect the true evolutionary history of a single locus, while
 concatenated tree neutralizes this. Depending on the research questions and
 concerns, one can choose one method over another.
+
