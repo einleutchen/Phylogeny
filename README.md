@@ -1,8 +1,8 @@
-### Phylogeny
+## Phylogeny
 A project from Comparative Genomics course
 Aim: using concatenated protein markers 
 
-#### Cutoffs for homologous proteins
+### Cutoffs for homologous proteins
 
 Species belong to the same genus, like Clostridium, can be much diverged in
 genomes, however, proteins might be conserved. 
@@ -16,7 +16,7 @@ The E-value for protein is 1e-05 while for
 genes 1e-06 was applied as two nucleotide sequence has a higher probability to
 match, thus, stricter threshold is essential to filter out random matches.
 
-#### Select reference genome
+### Select reference genome
 
 To choose the best genome among 11 Clostridium genomes for reference, I
 investigate available metrics that come along with the genome itself:
@@ -28,7 +28,7 @@ investigate available metrics that come along with the genome itself:
 Eventually, I define Clostridium diolis as reference genome as it meets all the
 criteria above.
 
-#### IQTree models for proteins
+### IQTree models for proteins
 
 IQTree2 iterates over different models, such as Jukes-Cantor, LG, WAG, Blosum62,
 Dayhoff with different combinations. The ModelFinder will then return the
@@ -56,7 +56,7 @@ Manual batch-blasting of all sequences in the set returns the same annotations.
 This confirms the reliability of representative sequence and the effectiveness
 of the pipeline in finding homologous sequences.
 
-#### Tree analysis
+### Tree analysis
 Protein and gene trees in general shows C. aceticum and C. formicaceticum as
 distantly relatated sister groups to the others which form a seperate group.
 This demonstrates that the selected genes and proteins are conserved among 
