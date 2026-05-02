@@ -81,8 +81,8 @@ ancestor with *C. drakei* and *C. scatologenes*.
 basal taxon in some trees, probably some proteins/genes in *C. sporogenes* retain
 ancestral characteristics.
 
-The concatenated alignment based tree captures the close relatedness of C.
-beijerinckii and *C. diolis* as well as *C. drakei* and *C. scatologenes*. In
+The concatenated alignment based tree captures the close relatedness of *C.
+beijerinckii* and *C. diolis* as well as *C. drakei* and *C. scatologenes*. In
 individual gene or protein tree, the relationship between *C. perfringens* and *C.
 sporogene* remains unclear. However, in concatenated trees for both genes and
 proteins they are immediate descendants of a common ancestor, indicating that
